@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d20afcaf-178c-484b-83bb-404a14f83dab" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zgjqvk1avl1qzOh428kQ7rlWoZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "BROWSERSTACK_PLUGIN_ENABLED": "true",
+    "Maven.SpanishNewsSelenium [clean].executor": "Run",
+    "Maven.SpanishNewsSelenium [install].executor": "Run",
+    "Maven.SpanishNewsSelenium [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.SpanishNewsSelenium [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.C:/Users/rohit/IdeaProjects/SpanishNewsSelenium/src/main/resources/testngRunner.xml.executor": "Run",
+    "TestNG.SpanishNews.analyseWordsPrintMoreThanTwice.executor": "Run",
+    "TestNG.SpanishNews.executor": "Run",
+    "TestNG.SpanishNews.openOpinionArticles.executor": "Debug",
+    "TestNG.SpanishNews.openURL.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/rohit/Downloads/projects/SpanishNewsSelenium",
+    "onboarding.tips.debug.path": "C:/Users/rohit/IdeaProjects/SpanishNewsSelenium/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.SpanishNews">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="SpanishNewsSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/rohit/IdeaProjects/SpanishNewsSelenium/src/main/resources/testngRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SpanishNewsSelenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testngRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpanishNews" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SpanishNewsSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Opinion.SpanishNews" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpanishNews.analyseWordsPrintMoreThanTwice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SpanishNewsSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Opinion" />
+      <option name="MAIN_CLASS_NAME" value="Opinion.SpanishNews" />
+      <option name="METHOD_NAME" value="analyseWordsPrintMoreThanTwice" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpanishNews.openURL" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SpanishNewsSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Opinion.SpanishNews" />
+      <option name="METHOD_NAME" value="openURL" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SpanishNews" />
+        <item itemvalue="TestNG.C:/Users/rohit/IdeaProjects/SpanishNewsSelenium/src/main/resources/testngRunner.xml" />
+        <item itemvalue="TestNG.SpanishNews.analyseWordsPrintMoreThanTwice" />
+        <item itemvalue="TestNG.SpanishNews.openURL" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d20afcaf-178c-484b-83bb-404a14f83dab" name="Changes" comment="" />
+      <created>1752159827779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752159827779</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
